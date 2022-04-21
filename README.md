@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento Backend na [Estartando Devs](https://www.linkedin.com/company/estartando-devs/)**
 
-![Card ID - Liana Meneghini](https://imgur.com/a/onX9mpS)
+![Card ID - Liana Meneghini](https://i.imgur.com/1wykHOC.png)
 
 - 📫 Contato: **lianarghini@gmail.com**
 
