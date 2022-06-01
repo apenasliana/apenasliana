@@ -2,10 +2,13 @@
 <h3 align="center">subtitle rs</h3>
 
 
+<h3 align="left">Projetos Recentes:</h3>
+
+- 🌱 Landing page feita na semana do **[NLW](https://github.com/apenasliana/Rocketseat/tree/main/nlw-Trilha_Origin)** da **[RocketSeat](https://www.linkedin.com/school/rocketseat/)** -- URL de acesso: **[DoctorCare-NLW](https://apenasliana.github.io/Rocketseat/nlw-Trilha_Origin/nlw-DoctorCare/)**
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento Backend na [Estartando Devs](https://www.linkedin.com/company/estartando-devs/)**
+<p>&nbsp;<img align="center" src="https://i.imgur.com/1wykHOC.png" alt="Card ID - Liana Meneghini" width="80%" height="80%" /></p>
 
-![Card ID - Liana Meneghini](https://i.imgur.com/1wykHOC.png)
 
 - 📫 Contato: **lianarghini@gmail.com**
 
