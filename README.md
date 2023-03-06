@@ -13,7 +13,7 @@
 
 - 🌱 Planning my 30-day project for the [Day9's 2023 DK30](https://day9.tv/dk30-about)
 
-- 🌱 I'm currently learning **Mobile App Development with React Native at [edX's CS50](https://courses.edx.org/dashboard)**
+- 🌱 I'm currently learning **Mobile App Development with React Native at [edX's CS50](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native?index=product&queryID=d1a6b05e091136234fb2b2598c99b4d0&position=1&v=2&linked_from=autocomplete&c=autocomplete)**
 <br><br><br><br>
 <h3 align="left">🏁 Projects</h3>
 
