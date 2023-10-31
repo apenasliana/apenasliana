@@ -37,12 +37,15 @@
 <h2 align="center">🏁 Projects</h3>
 
 
+
 <h4 align="left">RocketSeat NLW</h4>
 
-- ✔️ **[DoctorCare-NLW](https://apenasliana.github.io/Rocketseat/nlw-Trilha_Origin/nlw-DoctorCare/)** - Responsive landing page using: *JavaScript, CSS e HTML.*
-- ✔️ **[eSports-NLW](https://github.com/apenasliana/Rocketseat-NLW-eSports)** - Landing page and mobile app using: *React Native, TypeScript, JavaScript and integration with a Backend with data persistence.*
+- ✔️ **[DoctorCare-NLW](https://apenasliana.github.io/Rocketseat/nlw-Trilha_Origin/nlw-DoctorCare/)** - Responsive landing page *(JavaScript, CSS e HTML)*
+- ✔️ **[eSports-NLW](https://github.com/apenasliana/Rocketseat-NLW-eSports)** - Landing page and mobile app *(React Native, TypeScript, JavaScript and integration with a Backend with data persistence)*
 
+<h4 align="left">Side Projects</h4>
 
+- ✔️ **[Spotify Mockup](https://github.com/apenasliana/spotify-mockup)** - A page copying spotify's layout - *(TypeScript, NEXT and Tailwind)*
 
 
 
