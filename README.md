@@ -1,19 +1,40 @@
 <h1 align="center">Hi 👋, I'm Liana Meneghini</h1>
 <h3 align="center">I'm from Brazil and really into technology and programming!</h3>
-<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming. My last work experience is in a software house, working as a team to develop features for a mobile app using React Native.<p>
+<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming. My last work experience is in a software house, working as a team to develop features for mobile apps.<p>
+<br><br>
 
-   
    
    
 <h2 align="center">Recent Projects:</h2>
 
 
 
+
+
+
 <h3 align="left">🕓 Ongoing Projects</h3>
 
-- 🌱 I'm currently learning **Mobile App Development with React Native at [edX's CS50](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native?index=product&queryID=d1a6b05e091136234fb2b2598c99b4d0&position=1&v=2&linked_from=autocomplete&c=autocomplete)**
+- **WORK**: Fixing frontend bugs for a remote education website with the ***dti digital*** team. *(Javascript, vue and C# backend)*;
+- 🌱 Speech to Text subtitles with realtime translation for livestreaming;
+- 🌱 I'm currently learning **C## for game development** ;
+   <br><br><br><br>
+
+<h2 align="center">Past Work Experiences</h3>
+
+<h4 align="left">Martins Group Android App</h4>
+
+- **Description** - Mobile Android App to get deals and purchase products for a local brazillian seller.
+- **Project Technologies:** - *React Native, JavaScript and Jest*.
+- **Duration** - 8 months.
+
+<h4 align="left">Ford Remote Payment App</h4>
+
+- **Description** - New Android App following the guidelines and layout from the already in production Ford's IOS app.
+- **Project Technologies** - Kotlin.
+- **Duration** - 4 months.
 <br><br><br><br>
-<h3 align="left">🏁 Projects</h3>
+
+<h2 align="center">🏁 Projects</h3>
 
 
 <h4 align="left">RocketSeat NLW</h4>
@@ -24,6 +45,13 @@
 
 
 
+
+   <br><br><br><br>
+
+<h2 align="center">Courses</h3>
+
+- 🌱 Majoring in Information Systems  (ETA: late 2024);
+- ✔️ Mobile App Development with React Native at [edX's CS50](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native?index=product&queryID=d1a6b05e091136234fb2b2598c99b4d0&position=1&v=2&linked_from=autocomplete&c=autocomplete) ;
 
 
 
@@ -66,10 +94,6 @@ _________________________
    
 </p>
 
-__________
-<h3 align="center">Courses</h3>
-
-- 🌱 Majoring in Information Systems  (ETA: late 2024)
 
 
 __________
