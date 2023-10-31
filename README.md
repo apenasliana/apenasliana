@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liana Meneghini</h1>
 <h3 align="center">I'm from Brazil and really into technology and programming!</h3>
-<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming. My last work experience is in a software house, working as a team to develop features for mobile apps.<p>
+<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming. Currently working in a software house developing features for web and mobile apps.<p>
 <br><br>
 
 
@@ -27,8 +27,10 @@
 
 <h4 align="left">Ford Remote Payment App</h4>
 
+*(International Work Environment)*
+
 - **Description** - New Android App following the guidelines and layout from the already in production Ford's IOS app.
-- **Project Technologies** - Kotlin.
+- **Project Technologies** - *Kotlin*.
 - **Duration** - 4 months.
 <br><br><br><br>
 
