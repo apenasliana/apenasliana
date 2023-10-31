@@ -14,7 +14,7 @@
 
 - **WORK**: Fixing frontend bugs for a remote education website with the ***dti digital*** team. *(Javascript, vue and C# backend)*;
 - 🌱 Speech to Text subtitles with realtime translation for livestreaming;
-- 🌱 I'm currently learning **C## for game development** ;
+- 🌱 I'm currently learning **C# for game development** ;
    <br><br><br><br>
 
 <h2 align="center">Past Work Experiences</h3>
