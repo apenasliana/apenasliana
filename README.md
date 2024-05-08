@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liana Meneghini</h1>
 <h3 align="center">I'm from Brazil and really into technology and programming!</h3>
-<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming. Currently working in a software house developing features for web and mobile apps.<p>
+<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming.<p>
 <br><br>
 
 
