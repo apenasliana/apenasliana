@@ -12,7 +12,7 @@
 
 <h3 align="left">🕓 Ongoing Projects</h3>
 
-- **WORK**: Fixing frontend bugs for a remote education website with the ***dti digital*** team. *(Javascript, vue and C# backend)*;
+- **WORK**:
 - 🌱 Speech to Text subtitles with realtime translation for livestreaming;
 - 🌱 I'm currently learning **C# for game development** ;
    <br><br><br><br>
@@ -32,7 +32,15 @@
 - **Description** - New Android App following the guidelines and layout from the already in production Ford's IOS app.
 - **Project Technologies** - *Kotlin*.
 - **Duration** - 4 months.
+
+<h4 align="left">Anima Web</h4>
+
+
+- **Description** - Fixing frontend bugs for a remote education website with the ***dti digital*** team.
+- **Project Technologies** - Javascript, vue and C# backend.
+- **Duration** - 3 months.
 <br><br><br><br>
+ 
 
 <h2 align="center">🏁 Projects</h3>
 
