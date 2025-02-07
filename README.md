@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Liana Meneghini</h1>
-<h3 align="center">I'm from Brazil and really into technology and programming!</h3>
-<p align="center"> I have some knowledge with object-oriented programming, but recently my focus of study is on frontend programming.<p>
+<h3 align="center">From Brazil and really into technology and programming!</h3>
+<p align="center"> I've been working with object-oriented programming for the past years and almost done with my graduation in Information Systems.<p>
 <br><br>
+<p align="center">Recently, my focus of study is on backend programming. <p>
 
 
-
-   
-   
 <h2 align="center">Recent Projects:</h2>
-
 
 <h3 align="left">🕓 Ongoing Projects</h3>
 
-- **WORK**:
-- 🌱 Speech to Text subtitles with realtime translation for livestreaming;
-- 🌱 I'm currently learning **C# for game development** ;
+- 🌱 Studying *Blender* (3D modeling);
+- 🌱 Making a simple game using the *Godot Engine* using *GDscript*;
+   <br>
+<h3 align="left">⏸️  On hold </h4>
+
+- ⏸️ Speech to Text subtitles with realtime translation for livestreaming;
+- ⏸️ Learning **C# for game development** ;
+<br><br>
+
+<h2 align="center">💻 Work </h2>
    <br><br><br><br>
+
+
+  - Currently I'm employed at **[Aurum Software](https://www.linkedin.com/company/aurumbr)** [2024~Today]
+  
+  - Working fulltime as a **Fullstack Programmer** *(Kotlin, Java, Javascript, TypeScript, React, Angular)*
+
+
 
 <h2 align="center">Past Work Experiences</h3>
 
@@ -53,7 +64,7 @@
 
 <h4 align="left">Side Projects</h4>
 
-- ✔️ **[Spotify Mockup](https://github.com/apenasliana/spotify-mockup)** - A page copying spotify's layout - *(TypeScript, NEXT and Tailwind)*
+- ✔️ **[Spotify Mockup](https://github.com/apenasliana/spotify-mockup)** - A page copy of spotify's layout - *(TypeScript, NEXT and Tailwind)*
 
 
 
@@ -61,7 +72,7 @@
 
 <h2 align="center">Courses</h3>
 
-- 🌱 Majoring in Information Systems  (ETA: late 2024);
+- 🌱 Graduation in Information Systems  (ETA: late 2025);
 - ✔️ Mobile App Development with React Native at [edX's CS50](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native?index=product&queryID=d1a6b05e091136234fb2b2598c99b4d0&position=1&v=2&linked_from=autocomplete&c=autocomplete) ;
 
 
