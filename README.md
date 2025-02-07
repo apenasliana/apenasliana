@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Liana Meneghini</h1>
 <h3 align="center">From Brazil and really into technology and programming!</h3>
 <p align="center"> I've been working with object-oriented programming for the past years and almost done with my graduation in Information Systems.<p>
+   
+<div align="center">
+   
+   Lately, my focus of study is *backend programming* and *game development*.</div>
 <br><br>
-<p align="center">Recently, my focus of study is on backend programming. <p>
 
 
 <h2 align="center">Recent Projects:</h2>
@@ -16,18 +19,17 @@
 
 - ⏸️ Speech to Text subtitles with realtime translation for livestreaming;
 - ⏸️ Learning **C# for game development** ;
-<br><br>
+<br><br><br><br>
+
 
 <h2 align="center">💻 Work </h2>
-   <br><br><br><br>
+<br>
 
-
-  - Currently I'm employed at **[Aurum Software](https://www.linkedin.com/company/aurumbr)** [2024~Today]
+  - Currently I'm employed at **[Aurum Software](https://www.linkedin.com/company/aurumbr)** - *2024~Today*
   
   - Working fulltime as a **Fullstack Programmer** *(Kotlin, Java, Javascript, TypeScript, React, Angular)*
 
-
-
+ <br><br>
 <h2 align="center">Past Work Experiences</h3>
 
 <h4 align="left">Martins Group Android App</h4>
